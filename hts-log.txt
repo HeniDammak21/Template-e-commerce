@@ -1,0 +1,18 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 04 Jun 2024 16:55:58 at https://www.creative-tim.com/product/material-dashboard-pro-react +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.creative-tim.com/product/material-dashboard-pro-react -O1 "C:\Template e-commerce" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+16:56:24	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://www.creative-tim.com/product/material-dashboard-pro-react)
+17:05:02	Error: 	"Not Found" (404) at link https://www.creative-tim.com/images/layers.png (from https://www.creative-tim.com/assets/layouts/campaign/general-52925a7f4557f68301554b988cb8eefb507d49d984f9a9c10d76cd7cd3ba91eb.css)
+17:05:02	Error: 	"Not Found" (404) at link https://www.creative-tim.com/images/layers-2x.png (from https://www.creative-tim.com/assets/layouts/campaign/general-52925a7f4557f68301554b988cb8eefb507d49d984f9a9c10d76cd7cd3ba91eb.css)
+17:05:02	Error: 	"Not Found" (404) at link https://www.creative-tim.com/images/marker-icon.png (from https://www.creative-tim.com/assets/layouts/campaign/general-52925a7f4557f68301554b988cb8eefb507d49d984f9a9c10d76cd7cd3ba91eb.css)
+17:05:04	Error: 	"Not Found" (404) at link https://www.creative-tim.com/product/www.updivision.com (from https://www.creative-tim.com/product/material-dashboard-pro-react-laravel)
+17:17:41	Error: 	"Error when decompressing" (-1) at link https://www.creative-tim.com/product/”https://demos.creative-tim.com/blk-design-system-angular/ (from https://www.creative-tim.com/product/blk-design-system-angular)
+17:41:30	Warning: 	Retry after error 502 (Bad Gateway) at link https://www.creative-tim.com/product/material-dashboard-pro/reviews?page=24 (from https://www.creative-tim.com/product/material-dashboard-pro/reviews?page=20)
+
+HTTrack Website Copier/3.49-2 mirror complete in 50 minutes 39 seconds : 4129 links scanned, 4121 files written (297003561 bytes overall) [127094703 bytes received at 41821 bytes/sec], 238858172 bytes transferred using HTTP compression in 2543 files, ratio 26%, 2.6 requests per connection
+(6 errors, 1 warnings, 0 messages)
